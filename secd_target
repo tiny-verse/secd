@@ -1,0 +1,10 @@
+#pragma once
+
+namespace tiny {
+
+    class secd_target {
+    public:
+        void foo();
+
+    }; // secd_target
+}
